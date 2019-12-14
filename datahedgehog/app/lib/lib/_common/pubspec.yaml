@@ -1,0 +1,20 @@
+name: common
+version: 1.0.0+7
+description: >-
+  Have you been turned into a newt?  Would you like to be?
+  This package can help. It has all of the
+  newt-transmogrification functionality you have been looking
+  for.
+author: Nay Zaw Oo<nayzawoo.me@gmail.com>
+homepage: https://github.com/nayzawoo/commondart
+documentation: https://example-pet-store.com/newtify/docs
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  http: ^0.12.0+2
+  async: ">=1.10.0 <3.0.0"
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  test: ^1.3.0
