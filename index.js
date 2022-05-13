@@ -362,5 +362,7 @@ if(lastHum4 > 3000){
 
 })
 
+console.log("hoLA COMO ESTAS");
+
 
 })
